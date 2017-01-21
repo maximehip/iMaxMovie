@@ -28,3 +28,5 @@ $ imaxmovie silicon valley s03e01
 Make sure you have [NPM](https://docs.npmjs.com/getting-started/installing-node) and [VLC media player](http://www.videolan.org) installed.
 
 Create by [Maximehip](http://twitter.com/maximehip)
+
+[Demo here](https://www.youtube.com/watch?v=dZ4cQhYPIbs)
