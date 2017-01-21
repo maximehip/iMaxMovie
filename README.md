@@ -20,7 +20,7 @@ $ imaxmovie [series name] s[series no]e[episode no]
 ```
 
 ```
-$ ims silicon valley s03e01
+$ imaxmovie silicon valley s03e01
 ```
 
 ### Requirements
