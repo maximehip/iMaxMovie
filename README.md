@@ -1,6 +1,6 @@
 # iMaxMovie 
 
-Searches for the movie/ tv series torrents and streams them instantly.
+Watch movie/series instantly
 
 
 ### Installation
