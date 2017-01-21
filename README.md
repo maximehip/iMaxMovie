@@ -1,0 +1,30 @@
+# iMaxMovie 
+
+Searches for the movie/ tv series torrents and streams them instantly.
+
+
+### Installation
+```
+$ python setup.py install
+```
+
+### Usage
+How get a movie :
+```
+$ imaxmovie MovieName
+```
+For a Tv Serie :
+
+```
+$ imaxmovie [series name] s[series no]e[episode no]
+```
+
+```
+$ ims silicon valley s03e01
+```
+
+### Requirements
+
+Make sure you have [NPM](https://docs.npmjs.com/getting-started/installing-node) and [VLC media player](http://www.videolan.org) installed.
+
+Create by [Maximehip](http://twitter.com/maximehip)
